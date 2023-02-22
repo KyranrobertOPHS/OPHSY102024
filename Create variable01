@@ -1,0 +1,20 @@
+email = "Hi@def.co.uk"
+name = "Hi"
+console = "playstation"
+age = 30
+price = 7391.1
+
+#above are two variables
+#one is called "email"
+#Other is called "name"
+#both contain data
+
+
+print(email)
+print(name)
+print(console)
+print(age)
+print(price)
+
+#Print is a function
+#It displays text to the screen
