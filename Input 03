@@ -1,0 +1,10 @@
+Team1name = "Special Speros"
+Team2name = "Croydon Kebabs"
+
+FREETHROW = 1
+MIDRANGE = 2
+THREEPOINTER = 3
+
+#In the game of basketball
+#The points will never change
+#It makes sense to define the points in constants
