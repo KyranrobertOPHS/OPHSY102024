@@ -1,0 +1,10 @@
+#Selection
+
+Team1points = 37
+Team2points = 4638977025035
+
+if Team1points == 37:
+  print("Team 1 has",Team1points)
+
+if Team2points == 4638977025035:
+  print(",Team 2 has",Team2points)
