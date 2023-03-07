@@ -1,0 +1,12 @@
+print("Welcome to MAD-LIB")
+print("")
+adjective1 = input("Enter an adjective")
+nationality1 = input("Enter nationality")
+person1 = input("Enter person")
+noun1 = input("Enter a noun")
+
+
+print("")
+print("Here is your MAD-LIB")
+print("")
+print("Spanish was invented by a" ,adjective1, nationality1, "God named", person1)
