@@ -1,0 +1,9 @@
+NBA = input("Did you make the NBA? y or n?")
+
+if NBA ==("y"):
+  print("Congrats bro")
+
+else:
+  print("Keep training")
+  
+print("bye")
