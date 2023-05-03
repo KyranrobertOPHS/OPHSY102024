@@ -1,0 +1,8 @@
+firstname = str(input("Enter first name"))
+lastname = str(input("Enter last name"))
+full = firstname + " " + lastname
+
+
+print(full)
+length = len(full)
+print(length)
