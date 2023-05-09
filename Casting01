@@ -1,0 +1,17 @@
+#Casting
+#To convert from one data type to another
+string1 = "1"
+string2 = "2"
+
+
+print("You can't add strings")
+concatination = string1 + string2
+print(concatination)
+
+#Casting to Integers
+string1cast = int(string1)
+string2cast = int(string2)
+
+print("You can add integers")
+adding = string1cast + string2cast
+print(adding)
