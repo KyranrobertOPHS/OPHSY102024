@@ -1,0 +1,8 @@
+import random
+num = random.randint(1,5)
+user1 = int(input("Pick a number"))
+print(num)
+if user1 == num:
+  print("Well done")
+else:
+  print("You're too high/low, try again")
