@@ -1,0 +1,9 @@
+import random
+list = ["h","t"]
+coin = random.choice(list)
+print(coin)
+h_or_t = str(input("h or t"))
+if h_or_t == coin:
+  print("You win")
+else:
+  print("Bad luck")
