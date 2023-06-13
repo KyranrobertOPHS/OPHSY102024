@@ -1,0 +1,12 @@
+people = []
+people.append(input("Enter a person>>>"))
+people.append(input("Enter a person>>>"))
+people.append(input("Enter a person>>>"))
+x = input("Do you want to add another?")
+if x == "yes":
+  people.append(input("Enter a person>>>"))
+  w = input("Anyone else?")
+  if w == "no":
+    print(people)
+  if w == "yes":
+   people.append(input("Enter a person>>>"))
