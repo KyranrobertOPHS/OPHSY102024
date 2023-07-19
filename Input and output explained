@@ -1,0 +1,14 @@
+#File I/O
+#Use IDLE python 3.8
+notepad = open("number.txt","w")
+userlines1= "1,"
+userlines2= "2,"
+userlines3= "3,"
+userlines4= "4,"
+userlines5= "5,"
+notepad.write(userlines1)
+notepad.write(userlines2)
+notepad.write(userlines3)
+notepad.write(userlines4)
+notepad.write(userlines5)
+notepad.close()
